@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrpdate",
+        "uuid": 42448513,
+        "checksum": "ommgde"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
